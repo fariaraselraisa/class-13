@@ -417,8 +417,8 @@ section.portfolio .card .display-over {
 }
 section.portfolio .card .display-over h3 {
   align-items: center;
-  margin-top: 23px;
-  margin-left: 111px;
+  margin-top: 0px;
+  margin-left: 0px;
   
 }
 section.portfolio .card:hover .display-over {
